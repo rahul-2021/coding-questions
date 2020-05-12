@@ -17,4 +17,4 @@ def SimilarElementsPairs (arr,n):
 N = int(input())
 A = list(map(int,input().split()))
 out_ = SimilarElementsPairs(A,N)
-print (out_)[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[B[B[A[C[C[C[C[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[A[A[A[A[A[A[A[A[A[A[A[B
+print (out_)
